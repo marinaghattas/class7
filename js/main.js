@@ -4,7 +4,7 @@ function setup() {
 
   strokeWeight(1);
   stroke('black');
-  fill('lightblue');
+  fill('lightpink');
   rect(65,70,125-30,150);
 
 
