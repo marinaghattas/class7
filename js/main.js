@@ -1,14 +1,10 @@
 function setup() {
 
   createCanvas(windowWidth, windowHeight);
-//
+
 //  drawWindow (50,50); // call the function
 //  drawWindow (200,50); // call the function
 
-
-}
-
-function draw(){
     var x = 0;
     var y = 0;
     var gridWidth = 900;
@@ -28,6 +24,10 @@ function draw(){
     } //end for loop
 } //end setup
 
+
+
+function draw(){
+}
 function drawWindow(startX,startY){
     strokeWeight(1);
     stroke('black');
